@@ -1,2 +1,3 @@
 I am a dinosaur.I eat cabbage everyday. My main occupation is farming. There is big ocean near me where I bathe.
+I am not a dinosaur. I ate carrot. My main occupation is doing business.
 Hi everyone we are learning git today.
