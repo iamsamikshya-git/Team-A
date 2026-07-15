@@ -1,1 +1,2 @@
 I am not a dinosaur. I ate carrot. My main occupation is doing business.
+Hi everyone we are learning git today.
